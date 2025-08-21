@@ -6,4 +6,4 @@ The CP team strives to construct an app that will be aguide for students in orga
 
 ## Team Members
 
-[Robert Lassila](TEAM/ROBERT_LASSILA.md)
+[Robert Lassila](team/ROBERT_LASSILA.md)
